@@ -1,3 +1,2 @@
-# IT_Project
-Food Trap
-my first project
+IT project
+This is a first project
