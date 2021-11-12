@@ -1,2 +1,1 @@
-IT project
-This is a first project
+We are building an website for food truck
